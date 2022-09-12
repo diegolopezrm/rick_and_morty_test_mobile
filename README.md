@@ -34,7 +34,7 @@ Criterios a evaluar:
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/zubairehman/flutter-boilerplate-project.git
+https://github.com/diegolopezrm/rick_and_morty_test_mobile.git
 ```
 
 **Paso 2:**
@@ -113,7 +113,20 @@ fonts:
         - asset: assets/fonts/Gilroy-Light.otf
 ```
 
+## APKS Solicitados
 
+Los archivo de tipo .apk se generan en la ruta:
+```
+build\app\outputs\flutter-apk\
+```
+
+Sin embargo se realiza un nuevo folder con las apk correctamente funcionales en los formatos requeridos.
+En la siguiente ruta:
+```
+APKS\
+```
+
+ 
 ## Recomendaciones
 
 *Utilizar el manejador de versiones FVM 
